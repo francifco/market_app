@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Market App</string>
+
+    /*Http Routes*/
+    <string name="base_url">http://45.55.77.254/</string>
+    <string name="new_product">newProduct</string>
+    <string name="add_product">addProduct</string>
+    <string name="verify_inventory">verifyInventory</string>
+    <string name="get_all">getAll</string>
+    <string name="get_by_code">getByCode</string>
+
+
+
+</resources>
